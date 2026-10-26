@@ -1,17 +1,49 @@
-## Hi there 👋
+<h1 align="center">Olá! 👋 Seja bem-vindo ao meu GitHub</h1>
 
-<!--
-**Joao-Paulo323/Joao-Paulo323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Aprendendo+e+construindo+projetos;Transformando+ideias+em+c%C3%B3digo" alt="Texto animado" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  💻 Desenvolvimento de Sistemas • 🚀 Aprendizado contínuo
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Snake animation](https://raw.githubusercontent.com/Joao-Paulo323/Joao-Paulo323/output/github-contribution-grid-snake.svg)
+---
+
+## 👨‍💻 Sobre mim
+
+- 🌱 Estou desenvolvendo minhas habilidades em programação.
+- 💡 Tenho interesse em desenvolvimento de sistemas e soluções tecnológicas.
+- 🎯 Meu objetivo é aprender, criar projetos e evoluir como desenvolvedor.
+- 🛠️ Utilizo o Git e o GitHub para organizar e acompanhar meus projetos.
+
+---
+
+## 🧰 Tecnologias e ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,java,cs,mysql,git,github,vscode&theme=dark" alt="Tecnologias e ferramentas" />
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Joao-Paulo323&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Paulo323&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
+</p>
+
+---
+
+## 🐍 Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Joao-Paulo323/Joao-Paulo323/output/github-contribution-grid-snake-dark.svg" alt="Animação Snake" />
+</p>
+
+---
+
+<p align="center">
+  ✨ Sempre aprendendo, praticando e construindo algo novo.
+</p>
