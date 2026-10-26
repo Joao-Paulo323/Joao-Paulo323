@@ -1,21 +1,21 @@
 <svg width="900" height="180" viewBox="0 0 900 180" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="900" y2="180" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#17072B">
-        <animate attributeName="stop-color" values="#17072B;#172554;#064E6B;#17072B" dur="8s" repeatCount="indefinite"/>
+      <stop offset="0%" stop-color="#160526">
+        <animate attributeName="stop-color" values="#160526;#2E1065;#1E1B4B;#160526" dur="10s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="50%" stop-color="#4C1D95">
-        <animate attributeName="stop-color" values="#4C1D95;#1D4ED8;#7E22CE;#4C1D95" dur="8s" repeatCount="indefinite"/>
+      <stop offset="50%" stop-color="#6D28D9">
+        <animate attributeName="stop-color" values="#6D28D9;#7E22CE;#4338CA;#6D28D9" dur="10s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="100%" stop-color="#0891B2">
-        <animate attributeName="stop-color" values="#0891B2;#312E81;#0E7490;#0891B2" dur="8s" repeatCount="indefinite"/>
+      <stop offset="100%" stop-color="#312E81">
+        <animate attributeName="stop-color" values="#312E81;#581C87;#1D4ED8;#312E81" dur="10s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
   </defs>
 
   <rect width="900" height="180" fill="url(#background)"/>
 
-  <path d="M0 150 Q450 100 900 145 V180 H0 Z" fill="#080B16" opacity="0.35"/>
+  <path d="M0 145 Q450 95 900 140 V180 H0 Z" fill="#080611" opacity="0.4"/>
 
   <g fill="#FFFFFF" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">
     <text x="450" y="86" font-size="42" font-weight="700">JOÃO PAULO</text>
