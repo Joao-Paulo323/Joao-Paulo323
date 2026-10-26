@@ -1,5 +1,9 @@
 <h1 align="center">Olá! 👋 Seja bem-vindo ao meu GitHub</h1>
+<h1 align="center">JOÃO PAULO</h1>
 
+<p align="center">
+  <img src="CAMINHO-DO-SEU-BANNER.gif" width="100%" alt="Banner animado azul e roxo">
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Aprendendo+e+construindo+projetos;Transformando+ideias+em+c%C3%B3digo" alt="Texto animado" />
 </p>
