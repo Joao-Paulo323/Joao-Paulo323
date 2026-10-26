@@ -1,5 +1,5 @@
 <h1 align="center">Olá! 👋 Seja bem-vindo ao meu GitHub</h1>
-<h1 align="center">JOÃO PAULO</h1>
+
 
 <p align="center">
   <img src="./banner.svg" width="100%" alt="Banner João Paulo">
