@@ -26,7 +26,7 @@
 ## 🧰 Tecnologias e ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,cs,mysql,git,github,vscode&theme=dark" alt="Tecnologias e ferramentas">
+  <img src="https://skillicons.dev/icons?i=js,java,cs,mysql,git,github,vscode,visualstudio,idea&theme=dark" alt="Tecnologias e ferramentas">
 </p>
 
 ---
